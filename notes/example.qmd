@@ -1,0 +1,22 @@
+---
+title: Example Note
+---
+
+# Logistic Equation
+
+Consider
+
+$$
+x' = x(1-x).
+$$
+
+The equilibria are $x=0$ and $x=1$.
+
+## A theorem
+
+**Theorem.**
+If $f$ is continuous on $[a,b]$, then $f$ is Riemann integrable.
+
+## A proof
+
+Write your proof here.
