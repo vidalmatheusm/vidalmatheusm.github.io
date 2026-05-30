@@ -1,7 +1,5 @@
-# My Writings
-
 Welcome to my website.
 
-## Notes
+# Notes
 
 - [Conjugação Topológica em Sistemas Planares](writings/conjugacao_topologica_em_sistemas_planares.md)
